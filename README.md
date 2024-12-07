@@ -15,7 +15,7 @@ I'm a high school student . I love working on innovative projects and contributi
 
 ## 🌟 Projects
 1. Copper-shop: an E-commere website.
-   -https://github.com/ARS6666/Copper-Shop
+   - https://github.com/ARS6666/Copper-Shop
 
 2. ida-ltd: an industrail website for company.
    - https://github.com/ARS6666/ida-ltd-UI
