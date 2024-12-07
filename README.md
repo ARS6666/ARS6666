@@ -19,6 +19,5 @@ I'm a high school student . I love working on innovative projects and contributi
 
 2. ida-ltd: an industrail website for company.
    - https://github.com/ARS6666/ida-ltd-UI
-   - 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARS6666&show_icons=true)
