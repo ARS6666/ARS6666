@@ -7,7 +7,6 @@ I'm a high school student . I love working on innovative projects and contributi
 - 🌱 I’m learning cyber security
 - 💬 Ask me about Python, React, Web Development, futsal
 - 📫 How to reach me: @AAARSARS (my telegram ID)
-⚡ Fun fact: I can solve five different Rubik's cubes.
 ## 🛠 Tech Stack
 - **Languages**: Python, HTML, CSS
 - **Frameworks**: React
