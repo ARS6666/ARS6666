@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img height="700" src="https://i.ibb.co/cr1NHgv/5u7lmq.png"  />
+  <img height="300" src="https://i.ibb.co/cr1NHgv/5u7lmq.png"  />
 </div>
 
 ###
