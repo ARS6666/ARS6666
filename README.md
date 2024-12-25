@@ -1,9 +1,8 @@
 <h2 align="left">Hi 👋! My name is Arshia and I'm a UI designer, from Zanjan,Iran</h2>
 
-<br clear="both">
 
 <div align="center">
-  <img height="300" src="https://i.ibb.co/cr1NHgv/5u7lmq.png"  />
+  <img src="https://i.ibb.co/cr1NHgv/5u7lmq.png"  />
 </div>
 
 ###
