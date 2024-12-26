@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Arshia and I'm a High school student, from Zanjan,Iran</h2>
+<h2 align="left">Hi 👋! My name is Arshia and I'm a UI designer, from Zanjan,Iran</h2>
+
+
+<div align="center">
+  <img height="300" src="https://i.ibb.co/cr1NHgv/5u7lmq.png"  />
+</div>
 
 ###
 
@@ -48,3 +53,9 @@
 </div>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARS6666/ARS6666/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARS6666/ARS6666/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ARS6666/ARS6666/output/github-snake.svg" />
+</picture>
