@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Arshia and I'm a UI designer, from Zanjan,Iran</h2>
+<h2 align="left">Hi 👋! My name is Arshia and I'm a UI designer, from Zanjan,Iran</h2>
 
 
 <div align="center">
@@ -32,6 +32,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
+
+###
+
 <div align="left">
   <a href="https://youtube.com/@arsbytecode?si=S0NdT1ZlCP8El2ze" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -46,13 +49,10 @@
   <a href="https://t.me/AAARSARS" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <a href="https://youtube.com/@arsbytecode?si=S0NdT1ZlCP8El2ze" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://www.coffeebede.com/arshiaars" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CoffeeBede&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
   </a>
 </div>
-
-  ## 💰 Buy me a coffee
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.coffeebede.com/arshiaars) 
 
 ###
 
