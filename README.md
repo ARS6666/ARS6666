@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
-<div align="left">
+<div align="left" style={{paddingTop:"25px"}}>
   <a href="https://youtube.com/@arsbytecode?si=S0NdT1ZlCP8El2ze" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
