@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img height="300" src="arsbanner.png"  />
+  <img height="auto" width="100%" src="arsbanner.png"/>
 </div>
 
 ###
