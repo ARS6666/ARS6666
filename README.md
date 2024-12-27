@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arshia and I'm a UI designer, from Zanjan,Iran</h2>
+<h2 align="left">Hi! My name is Arshia and I'm a UI designer, from Zanjan,Iran</h2>
 
 
 <div align="center">
@@ -46,7 +46,6 @@
   <a href="https://t.me/AAARSARS" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=CoffeeBede&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -56,7 +55,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.coffeebede.com/arshiaars) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.coffeebede.com/arshiaars) 
 
 ###
 
