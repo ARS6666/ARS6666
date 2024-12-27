@@ -48,7 +48,7 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=CoffeeBede&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
 </div>
-###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ARS6666&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
