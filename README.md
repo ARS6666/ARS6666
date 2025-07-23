@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arshia and I'm a UI designer, from Zanjan,Iran</h2>
+<h2 align="left">Hi 👋! My name is Arshia and I'm a UI designer/Programmmer, from Zanjan,Iran</h2>
 
 
 <div align="center">
