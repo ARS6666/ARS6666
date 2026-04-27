@@ -8,6 +8,9 @@
 <div align="center">
   <img height="auto" width="100%" src="arsbanner.png"/>
 </div>
+###
+
+<img align="right" height="150" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"  />
 
 ### 🧠 About Me
 
@@ -18,9 +21,6 @@
 - ☕ caffeine powered developer
 - 🌙 late night coder
 
-###
-
-<img align="right" height="150" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"  />
 
 ### 🚀 Tech Stack
 
