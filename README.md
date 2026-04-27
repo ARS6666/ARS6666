@@ -17,7 +17,11 @@
 - 🐍 python enjoyer
 - ☕ caffeine powered developer
 - 🌙 late night coder
-
+###
+🔭 Currently Working On
+- Expanding my cybersecurity projects & tools  
+- Building sleek UI designs with React  
+- Exploring automation with Python scripts  
 
 ### 🚀 Tech Stack
 
@@ -77,10 +81,4 @@
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ARS6666/ARS6666/output/github-snake.svg" />
 </picture>
 
-###
-🔭 Currently Working On
-- Expanding my cybersecurity projects & tools  
-- Building sleek UI designs with React  
-- Exploring automation with Python scripts  
 
-###
