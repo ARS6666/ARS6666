@@ -9,15 +9,9 @@
   <img height="auto" width="100%" src="arsbanner.png"/>
 </div>
 
-<p align="right">
-  <img height="150" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" />
-  <img height="150" src="https://media.tenor.com/8y3f8fY2oJ8AAAAM/hacker-cat.gif" />
-  <img height="150" src="https://media.tenor.com/4oR1t0m8z8cAAAAM/coding-meme.gif" />
-</p>
-
 ### 🧠 About Me
 
-- 🧠 currently suffering from **konkoor**
+- 🧠 currently suffering from **konkoorrrrrrr**
 - 💻 coding random projects
 - 🔐 cybersecurity learner
 - 🐍 python enjoyer
