@@ -9,7 +9,11 @@
   <img height="auto" width="100%" src="arsbanner.png"/>
 </div>
 
-<img align="right" height="150" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"  />
+<p align="right">
+  <img height="150" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" />
+  <img height="150" src="https://media.tenor.com/8y3f8fY2oJ8AAAAM/hacker-cat.gif" />
+  <img height="150" src="https://media.tenor.com/4oR1t0m8z8cAAAAM/coding-meme.gif" />
+</p>
 
 ### 🧠 About Me
 
@@ -60,7 +64,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="36" />
   </a>
 
-  <a href="https://t.me/AAARSARS" target="_blank">
+  <a href="https://t.me/َARS00hia" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&style=for-the-badge" height="36" />
   </a>
 
