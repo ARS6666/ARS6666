@@ -13,54 +13,66 @@
 
 <img align="right" height="150" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"  />
 
-###
+### 🚀 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="36" alt="Python" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=js" height="36" alt="JavaScript" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML5" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS3" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=discord" height="36" alt="Discord" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" />
 </div>
 
-###
+---
+
+### 🌐 Connect With Me
 
 <div align="left">
   <a href="https://youtube.com/@arsbytecode?si=S0NdT1ZlCP8El2ze" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge" height="36" />
   </a>
-  <a href="https://www.instagram.com/_arsssss_d?igsh=MWNrbDR6eWRudjg3NQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+
+  <a href="https://www.instagram.com/_arsssss_d" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="36" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="arsprogramming123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="36" />
   </a>
+
+  <a href="mailto:arsprogramming123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="36" />
+  </a>
+
   <a href="https://t.me/AAARSARS" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&style=for-the-badge" height="36" />
   </a>
+
   <a href="https://www.coffeebede.com/arshiaars" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CoffeeBede&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+    <img src="https://img.shields.io/static/v1?message=CoffeeBede&logo=ko-fi&color=F16061&style=for-the-badge" height="36" />
   </a>
 </div>
 
-###
+---
+
+### 🐍 GitHub Activity Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARS6666/ARS6666/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARS6666/ARS6666/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ARS6666/ARS6666/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ARS6666/ARS6666/output/github-snake.svg" />
 </picture>
 
-### 🔭 Currently Working On
+###
+🔭 Currently Working On
 - Expanding my cybersecurity projects & tools  
 - Building sleek UI designs with React  
 - Exploring automation with Python scripts  
