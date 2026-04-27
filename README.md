@@ -9,6 +9,15 @@
   <img height="auto" width="100%" src="arsbanner.png"/>
 </div>
 
+### 🧠 About Me
+
+- 🧠 currently suffering from **konkoor**
+- 💻 coding random projects
+- 🔐 cybersecurity learner
+- 🐍 python enjoyer
+- ☕ caffeine powered developer
+- 🌙 late night coder
+
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"  />
