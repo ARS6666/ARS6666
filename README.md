@@ -11,7 +11,6 @@
 
 ### 🧠 About Me
 
-- 🧠 currently suffering from **konkoorrrrrrr**
 - 💻 coding random projects
 - 🔐 cybersecurity learner
 - 🐍 python enjoyer
