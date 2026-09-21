@@ -1,83 +1,128 @@
-<h1 align="center">Hi 👋, I'm Arshia!</h1>
+# Hi, I'm Arshia 👋
 
-<h3 align="center">
-  UI Designer | Programmer | Cybersecurity Enthusiast <br>
-  From Zanjan, Iran 🇮🇷
-</h3>
+### Full-Stack Web Developer
 
-<div align="center">
-  <img height="auto" width="100%" src="arsbanner.png"/>
-</div>
-
-### 🧠 About Me
-
-- 💻 coding random projects
-- 🔐 cybersecurity learner
-- 🐍 python enjoyer
-- ☕ caffeine powered developer
-- 🌙 late night coder
-###
-🔭 Currently Working On
-- Expanding my cybersecurity projects & tools  
-- Building sleek UI designs with React  
-- Exploring automation with Python scripts  
-
-### 🚀 Tech Stack
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="36" alt="Python" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=js" height="36" alt="JavaScript" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML5" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS3" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=discord" height="36" alt="Discord" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" />
-</div>
+I build modern, responsive, and practical web applications with a focus on clean UI, reliable backend systems, and real-world functionality.
 
 ---
 
-### 🌐 Connect With Me
+## 🚀 What I Do
 
-<div align="left">
-  <a href="https://youtube.com/@arsbytecode?si=S0NdT1ZlCP8El2ze" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&style=for-the-badge" height="36" />
-  </a>
-
-  <a href="https://www.instagram.com/_arsssss_d" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="36" />
-  </a>
-
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="36" />
-  </a>
-
-  <a href="mailto:arsprogramming123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="36" />
-  </a>
-
-  <a href="https://t.me/َARS00hia" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&style=for-the-badge" height="36" />
-  </a>
-
-  <a href="https://www.coffeebede.com/arshiaars" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CoffeeBede&logo=ko-fi&color=F16061&style=for-the-badge" height="36" />
-  </a>
-</div>
+* 🌐 Full-Stack Web Development
+* ⚛️ React & Modern Frontend Development
+* 🐍 Django & REST API Development
+* 🗄️ PostgreSQL & Database Integration
+* 📱 Responsive Web Design
+* 🎨 Modern UI Development
+* 🔐 Authentication & Role-Based Systems
+* 🖥️ Admin & Management Dashboards
+* 🚀 Linux, Nginx & Application Deployment
 
 ---
 
-### 🐍 GitHub Activity Snake
+## 🛠️ Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARS6666/ARS6666/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARS6666/ARS6666/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ARS6666/ARS6666/output/github-snake.svg" />
-</picture>
+### Frontend
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-A30000?style=for-the-badge\&logo=django\&logoColor=white)
+
+### Database & Deployment
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## ⭐ Featured Projects
+
+### 🏫 Kish Institute Management System
+
+A full-stack management platform designed for a language institute.
+
+**React · Django · REST API · PostgreSQL**
+
+Features include:
+
+* Role-based authentication
+* Student, teacher, secretary and admin panels
+* Course & classroom management
+* Responsive dashboards
+* RESTful backend
+* Database integration
+* Production deployment
+
+---
+
+### 🛒 Copper Shop
+
+A modern e-commerce web application with product management and user functionality.
+
+**React · Redux · Django · REST API**
+
+Features include:
+
+* Product listing
+* Search & filtering
+* Shopping cart
+* Authentication
+* Order management
+* User dashboard
+* Responsive interface
+* Admin functionality
+
+---
+
+### 💬 Videocall & Chat Web App
+
+A web application focused on communication and interactive user experiences.
+
+**React · JavaScript**
+
+---
+
+### 🎨 IDA LTD UI
+
+A modern frontend/UI project focused on responsive layouts and clean interface design.
+
+**React · JavaScript · CSS**
+
+---
+
+## 📈 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARS6666\&show_icons=true\&hide_border=true\&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARS6666\&layout=compact\&hide_border=true)
+
+---
+
+## 🤝 Let's Work Together
+
+I'm interested in working on:
+
+* Full-Stack Web Applications
+* React Projects
+* Django / REST API Development
+* Management Systems
+* Admin Dashboards
+* E-commerce Websites
+* Responsive Web Interfaces
+* Custom Web Applications
+
+If you have a project in mind, feel free to reach out.
+
+### 📫 Contact
+
+**GitHub:** [@ARS6666](https://github.com/ARS6666)
