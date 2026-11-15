@@ -1,34 +1,82 @@
 # Hi, I'm Charles 👋
 
-### Full-Stack Web Developer | React, JavaScript & Django
+### Full-Stack Developer | React · Django · Python
 
-I build responsive websites and practical web applications with a focus on clean interfaces, maintainable code, and user-friendly experiences.
+I build modern, responsive web applications and management systems that solve real business problems.
+
+My focus is on creating clean user interfaces, reliable backend systems, and practical solutions that are easy to use and maintain.
+
+---
+
+### 🚀 What I Do
+
+- Full-Stack Web Application Development
+- React.js Frontend Development
+- Django & Django REST Framework Backend
+- REST API Development & Integration
+- Admin Dashboards & Management Systems
+- Responsive UI Development
 
 ### 🛠️ Tech Stack
 
-* **Frontend:** React, JavaScript, HTML5, CSS3
-* **Backend:** Python, Django, Django REST Framework
-* **Database:** PostgreSQL
-* **Tools:** Git, GitHub, REST APIs
+**Frontend**
+- React.js
+- JavaScript
+- HTML5 & CSS3
 
-### 🚀 Featured Projects
+**Backend**
+- Python
+- Django
+- Django REST Framework
 
-* **Copper Shop** — E-commerce web project.
-* **IDA LTD UI** — Corporate website interface project.
-* **Video Call & Chat Web App** — Interactive web application project.
-* **Kish Institute Management System** — Education management platform built with React and Django.
+**Database & Tools**
+- PostgreSQL
+- Git & GitHub
+- REST APIs
 
-### 🎯 What I Can Help With
+---
 
-* React frontend development
-* Responsive website development
-* Django backend integration
-* Admin dashboards and management interfaces
-* REST API integration
-* Website improvements and bug fixes
+### ⭐ Featured Projects
 
-### 📫 Contact
+**1. Kish Institute Management System**
 
-Email: [arsprogramming123@gmail.com](mailto:arsprogramming123@gmail.com)
+A full-stack education management platform built with React and Django, designed to manage students, teachers, classes, and administrative workflows.
 
-[GitHub Profile](https://github.com/ARS6666)
+**2. Copper Shop**
+
+An e-commerce web application focused on product presentation and online shopping experiences.
+
+[View Repository](https://github.com/ARS6666/Copper-Shop)
+
+**3. Video Call & Chat Web App**
+
+A web application focused on real-time communication and interactive user experiences.
+
+[View Repository](https://github.com/ARS6666/Videocall-chat-webapp)
+
+**4. IDA LTD UI**
+
+A corporate website interface project with a focus on modern UI and responsive layouts.
+
+[View Repository](https://github.com/ARS6666/ida-ltd-UI)
+
+---
+
+### 🤝 Let's Work Together
+
+I'm interested in working on:
+
+- Custom web applications
+- Business management systems
+- E-commerce websites
+- Frontend development
+- Existing project improvements
+
+### 📫 Contact Me
+
+- Email: arsprogramming123@gmail.com
+- GitHub: [@ARS6666](https://github.com/ARS6666)
+
+---
+
+⭐ Feel free to explore my repositories and check out my work!
