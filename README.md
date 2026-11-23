@@ -33,6 +33,7 @@ A web-based education management platform with role-based interfaces and tools f
 An educational practice platform featuring study workflows, practice sessions, exam-related tools, review of mistakes, and focus-session functionality.
 
 **Tech:** React.js, REST API
+
 [Repository](https://github.com/Radinam1386/Mentora) · [GitHub](https://github.com/ARS6666)
 
 
@@ -40,6 +41,7 @@ An educational practice platform featuring study workflows, practice sessions, e
 An e-commerce frontend with product browsing, category-based navigation, and API-connected application features.
 
 **Tech:** React.js, JavaScript, REST API
+
 [Repository](https://github.com/ARS6666/Copper-Shop) · [GitHub](https://github.com/ARS6666)
 
 ---
