@@ -49,4 +49,4 @@ An e-commerce frontend with product browsing, category-based navigation, and API
 ## Contact
 
 - GitHub: [ARS6666](https://github.com/ARS6666)
-- Email: YOUR_EMAIL
+- Email: arshiaghasemzade1@gmail.com
