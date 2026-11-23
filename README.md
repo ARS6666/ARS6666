@@ -1,82 +1,50 @@
-# Hi, I'm Charles 👋
+# Hi, I'm Arshia Ghasemazde 👋
 
-### Full-Stack Developer | React · Django · Python
+### React.js | JavaScript | Responsive Web Development
 
-I build modern, responsive web applications and management systems that solve real business problems.
+I build responsive and user-focused web applications using React.js and modern frontend technologies. I enjoy turning ideas into practical interfaces and continuously improving my development skills.
 
-My focus is on creating clean user interfaces, reliable backend systems, and practical solutions that are easy to use and maintain.
-
----
-
-### 🚀 What I Do
-
-- Full-Stack Web Application Development
-- React.js Frontend Development
-- Django & Django REST Framework Backend
-- REST API Development & Integration
-- Admin Dashboards & Management Systems
-- Responsive UI Development
-
-### 🛠️ Tech Stack
-
-**Frontend**
-- React.js
-- JavaScript
-- HTML5 & CSS3
-
-**Backend**
-- Python
-- Django
-- Django REST Framework
-
-**Database & Tools**
-- PostgreSQL
-- Git & GitHub
-- REST APIs
+- ⚛️ Focus: React.js and Frontend Development
+- 🧩 Interested in UI development, responsive design, and API integration
+- 🛠️ Tools: Git, GitHub, Postman
+- 🌐 English: C1
+- 📂 Portfolio: Explore my repositories below
 
 ---
 
-### ⭐ Featured Projects
+## Tech Stack
 
-**1. Kish Institute Management System**
-
-A full-stack education management platform built with React and Django, designed to manage students, teachers, classes, and administrative workflows.
-
-**2. Copper Shop**
-
-An e-commerce web application focused on product presentation and online shopping experiences.
-
-[View Repository](https://github.com/ARS6666/Copper-Shop)
-
-**3. Video Call & Chat Web App**
-
-A web application focused on real-time communication and interactive user experiences.
-
-[View Repository](https://github.com/ARS6666/Videocall-chat-webapp)
-
-**4. IDA LTD UI**
-
-A corporate website interface project with a focus on modern UI and responsive layouts.
-
-[View Repository](https://github.com/ARS6666/ida-ltd-UI)
+**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3  
+**UI:** Responsive Web Design, Bootstrap, RTL Interfaces  
+**Integration:** REST APIs, Axios, Fetch API  
+**Tools:** Git, GitHub, Postman
 
 ---
 
-### 🤝 Let's Work Together
+## Featured Projects
 
-I'm interested in working on:
+### Kish Institute Management System
+A web-based education management platform with role-based interfaces and tools for managing students, teachers, classes, and educational workflows.
 
-- Custom web applications
-- Business management systems
-- E-commerce websites
-- Frontend development
-- Existing project improvements
+**Tech:** React.js, REST API  
+[Repository](https://github.com/Radinam1386/kish-website) · [GitHub](https://github.com/ARS6666)
 
-### 📫 Contact Me
+### Mentora – Learning Platform
+An educational practice platform featuring study workflows, practice sessions, exam-related tools, review of mistakes, and focus-session functionality.
 
-- Email: arsprogramming123@gmail.com
-- GitHub: [@ARS6666](https://github.com/ARS6666)
+**Tech:** React.js, REST API
+[Repository](https://github.com/Radinam1386/Mentora) · [GitHub](https://github.com/ARS6666)
+
+
+### Copper Shop
+An e-commerce frontend with product browsing, category-based navigation, and API-connected application features.
+
+**Tech:** React.js, JavaScript, REST API
+[Repository](https://github.com/ARS6666/Copper-Shop) · [GitHub](https://github.com/ARS6666)
 
 ---
 
-⭐ Feel free to explore my repositories and check out my work!
+## Contact
+
+- GitHub: [ARS6666](https://github.com/ARS6666)
+- Email: YOUR_EMAIL
